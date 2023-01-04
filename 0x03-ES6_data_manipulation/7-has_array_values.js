@@ -1,3 +1,3 @@
-const hasValueFrmArray = (set, array) => array.every((value) => se.has(value));
+const hasValuesFromArray = (set, array) => array.every((value) => set.has(value));
 
-export deault hasValueFrmArray;
+export default hasValuesFromArray;
