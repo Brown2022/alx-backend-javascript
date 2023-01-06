@@ -1,5 +1,8 @@
 <h2>0x04. Typescript</h2>
-[TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+[TypeCript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+[Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 0. Creating an interface for a student
 Copy the following configuration files (provided above) into the task_0 directory: package.json, .eslintrc.js, tsconfig.json, webpack.config.js
